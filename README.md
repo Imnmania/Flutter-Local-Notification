@@ -1,8 +1,16 @@
-# flutter_local_notification
+### Flutter Local Notifications
 
-A new Flutter project.
+#### Screenshot:
 
-## Getting Started
+<p align="center">
+<img src="https://i.imgur.com/cRZabUd.jpg" alt="Screenshot">
+</p>
+
+#### Dependencies:
+* flutter_local_notifications: ^4.0.1
+
+
+#### Getting Started
 
 This project is a starting point for a Flutter application.
 
