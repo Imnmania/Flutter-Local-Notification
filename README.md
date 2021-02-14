@@ -1,4 +1,4 @@
-### Flutter Local Notifications
+### Flutter Local Notification
 
 #### Screenshot:
 
